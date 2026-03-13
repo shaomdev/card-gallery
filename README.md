@@ -2,4 +2,4 @@
 
 Галерея авто-карточек
 
-> Demo - https://omarovfrontend.github.io/card-gallery/
+> Demo - https://shaomdev.github.io/card-gallery/
